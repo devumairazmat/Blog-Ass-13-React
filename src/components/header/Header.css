@@ -1,0 +1,16 @@
+.head {
+  font-weight: bolder;
+  font-size: 50px;
+  font-style: italic;
+  font-family: serif;
+  color: white;
+}
+.text1 {
+  color: white;
+  font-weight: 200;
+}
+.text2 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
